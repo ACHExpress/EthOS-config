@@ -1,2 +1,2 @@
 # EthOS-config
-EthOS operating system configuration file
+EthOS operating system configuration files
